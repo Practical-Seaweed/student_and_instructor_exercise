@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(202, 221, 238);
+}
+
+h1 {
+    color: dodgerblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#overallForm {
+    text-align: center;
+}
+
+#hugeEnterButton {
+    height: 150px;
+    width: 250px;
+}
+
+.instructor-text {
+    text-align: center;
+    color: blue;
+}
+.student-text {
+    text-align: center;
+    color: purple;
+}
+
+#overallButtons {
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
